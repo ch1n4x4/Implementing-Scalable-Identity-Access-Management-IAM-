@@ -3,7 +3,6 @@
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Environment](https://img.shields.io/badge/Platform-Microsoft%20Azure%20%7C%20Entra%20ID-blue?style=flat-square)
 ![Documentation](https://img.shields.io/badge/Docs-Case%20Study-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 > **Executive Summary:** This project outlines the strategic design and deployment of a Scalable Identity and Access Management (IAM) framework for **CloudScale Logistics** on Microsoft Azure and Microsoft Entra ID. As the organization expands its cloud infrastructure and workforce, legacy access models were modernized through Role-Based Access Control (RBAC) enforcing the Principle of Least Privilege (PoLP), centralized Single Sign-On (SSO) with Multi-Factor Authentication (MFA), and automated identity lifecycle management across the Azure Portal (GUI), Azure PowerShell (`Az` Module), and Azure CLI (Bash). This architecture drastically reduces CloudScale Logistics' internal and external attack surface, eliminates orphaned accounts and permission creep, and lowers IT administrative overhead while providing a frictionless authentication experience.
 
